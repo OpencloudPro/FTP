@@ -151,7 +151,7 @@
     display: block;
     top: 50%;
     height: 32px;
-    background-image: url('http://opencloud.pro/wp-content/uploads/2015/03/controls.png');
+    background-image: url('https://github.com/OpencloudPro/FTP/blob/master/img/controls.png');
     cursor: pointer;
     position: absolute;
     z-index: 9999;
