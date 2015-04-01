@@ -151,7 +151,7 @@
     display: block;
     top: 50%;
     height: 32px;
-    background-image: url('https://github.com/OpencloudPro/FTP/blob/master/img/controls.png');
+    background-image: url('https://cdn.rawgit.com/OpencloudPro/FTP/master/img/controls.png');
     cursor: pointer;
     position: absolute;
     z-index: 9999;
