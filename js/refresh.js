@@ -17,4 +17,4 @@ function autoRefresh_div()
 		}
 		}
 
-		setInterval('autoRefresh_div()', 60000); // refresh div after 1 secs
+		setInterval('autoRefresh_div()', 2000); // refresh div after 1 secs
